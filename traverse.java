@@ -18,7 +18,7 @@ public class traverse {
 
             }
         }
-        System.out.print("Traverse of an array:");
+        System.out.println("Traverse of an array:");
         for (int i = 0; i < arrSize; i++) {
             System.out.print(arr[i]+" ");
         }
